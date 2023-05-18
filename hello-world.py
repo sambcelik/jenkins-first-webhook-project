@@ -1,1 +1,1 @@
-print('Hello World sami celik')
+print('Hello World celik')
